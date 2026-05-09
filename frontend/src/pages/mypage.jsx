@@ -10,9 +10,16 @@ const MyPage = () => {
         <h1>{pageTitle}</h1>
       </header>
       
+      
       <main style={styles.content}>
         <p>This is a simple React component created with JSX.</p>
         <button 
+          onClick={() => alert('Hello!')}
+          style={styles.button}
+        >
+          Click Me
+        </button>
+          <button 
           onClick={() => alert('Hello!')}
           style={styles.button}
         >
