@@ -88,7 +88,7 @@ const MyPage = () => {
           onClick={() => alert('Hello!')}
           style={styles.button}
         >
-          Click Me
+          Clickmeeee
         </button>
         
         
