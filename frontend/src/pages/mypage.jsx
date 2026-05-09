@@ -60,12 +60,19 @@ const MyPage = () => {
           style={styles.button}
         >
           Click Me
-        </button>  <button 
+        </button>  
+        <button 
           onClick={() => alert('Hello!')}
           style={styles.button}
         >
           Click Me
-        </button>
+        </button>  
+        <button 
+          onClick={() => alert('Hello!')}
+          style={styles.button}
+        >
+          Click Me
+        </button>  
          
         
         
