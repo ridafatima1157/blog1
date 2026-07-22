@@ -17,42 +17,43 @@ const MyPage = () => {
           onClick={() => alert('Hello!')}
           style={styles.button}
         >
-          Click Me
+          Click Me-againnn
         </button>
-<<<<<<< HEAD
-         <button 
-=======
           <button 
->>>>>>> rida
           onClick={() => alert('Hello!')}
           style={styles.button}
         >
-          Click Me
+          Click Me-againnn
         </button>
-<<<<<<< HEAD
-         <button 
-=======
-        <button 
->>>>>>> rida
+           <button 
           onClick={() => alert('Hello!')}
           style={styles.button}
         >
-          Click Me
+          Click Me-againnn
         </button>
-<<<<<<< HEAD
+    
          <button 
+
           onClick={() => alert('Hello!')}
           style={styles.button}
         >
-          Click Me
+          Click Me-againnn
         </button>
          <button 
+         
           onClick={() => alert('Hello!')}
           style={styles.button}
         >
-          Click Me
+          Click Me-againnn
         </button>
-        
+    
+       <button 
+         
+          onClick={() => alert('Hello!')}
+          style={styles.button}
+        >
+          Click Me-againnn
+        </button>
     
     
 
@@ -67,8 +68,6 @@ const MyPage = () => {
     
         
         
-=======
->>>>>>> rida
       </main>
 
       <footer style={styles.footer}>
