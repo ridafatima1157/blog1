@@ -42,7 +42,7 @@ function Login() {
   return (
     <div className="mt-[100px] ml-[450px] mr-[450px] pt-[50px] pb-[50px] pl-[30px] pr-[30px] flex justify-center shadow-[1px_2px_6px_grey]">
       <div>
-        <h1 className=" text-[25px] font-bold">Login to your Account</h1>
+        <h1 className=" text-[25px] font-bold">Login to you</h1>
         <br />
         <form onSubmit={handleSubmission}>
           <input
