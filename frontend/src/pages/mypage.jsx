@@ -14,7 +14,25 @@ const MyPage = () => {
       <main style={styles.content}>
         <p>This is a simple React component created with JSX.</p>
       
-
+          <button 
+          onClick={() => alert('Hello!')}
+          style={styles.button}
+        >
+          Click Me-againnn
+        </button>
+        <button 
+          onClick={() => alert('Hello!')}
+          style={styles.button}
+        >
+          Click Me-againnn
+        </button>
+      
+      <button 
+          onClick={() => alert('Hello!')}
+          style={styles.button}
+        >
+          Click Me-againnn
+        </button>
       
       
       
