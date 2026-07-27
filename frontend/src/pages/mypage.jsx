@@ -27,37 +27,7 @@ const MyPage = () => {
           Click Me-againnn
         </button>
       
-      <button 
-          onClick={() => alert('Hello!')}
-          style={styles.button}
-        >
-          Click Me-againnn
-        </button>
-      <button 
-          onClick={() => alert('Hello!')}
-          style={styles.button}
-        >
-          Click Me-againnn
-        </button>
-      <button 
-          onClick={() => alert('Hello!')}
-          style={styles.button}
-        >
-          Click Me-againnn
-        </button>
-      
-      <button 
-          onClick={() => alert('Hello!')}
-          style={styles.button}
-        >
-          Click Me-againnn
-        </button>
-      <button 
-          onClick={() => alert('Hello!')}
-          style={styles.button}
-        >
-          Click Me-againnn
-        </button>
+  
       
         
       </main>
