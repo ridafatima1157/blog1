@@ -12,7 +12,7 @@ const MyPage = () => {
       
       
       <main style={styles.content}>
-        <p>This is a simple React component created with JSX.</p>
+        <p>This is a simple React component created with JSX----.</p>
       
           <button 
           onClick={() => alert('Hello!')}
